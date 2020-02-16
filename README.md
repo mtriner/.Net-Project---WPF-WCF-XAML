@@ -31,3 +31,6 @@ CREATE TABLE Customer (
 
 ## User Stories
 - User Stories are attached as a .docx
+
+## Features
+- Double click on a name within the customer viewlist for edit/delete options
