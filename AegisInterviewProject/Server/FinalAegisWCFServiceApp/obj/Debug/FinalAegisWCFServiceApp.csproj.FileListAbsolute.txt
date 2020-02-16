@@ -1,0 +1,6 @@
+C:\Users\dr_mc\source\repos\FinalAegisWCFServiceApp\FinalAegisWCFServiceApp\bin\FinalAegisWCFServiceApp.dll.config
+C:\Users\dr_mc\source\repos\FinalAegisWCFServiceApp\FinalAegisWCFServiceApp\bin\FinalAegisWCFServiceApp.dll
+C:\Users\dr_mc\source\repos\FinalAegisWCFServiceApp\FinalAegisWCFServiceApp\bin\FinalAegisWCFServiceApp.pdb
+C:\Users\dr_mc\source\repos\FinalAegisWCFServiceApp\FinalAegisWCFServiceApp\obj\Debug\FinalAegisWCFServiceApp.csprojAssemblyReference.cache
+C:\Users\dr_mc\source\repos\FinalAegisWCFServiceApp\FinalAegisWCFServiceApp\obj\Debug\FinalAegisWCFServiceApp.dll
+C:\Users\dr_mc\source\repos\FinalAegisWCFServiceApp\FinalAegisWCFServiceApp\obj\Debug\FinalAegisWCFServiceApp.pdb

@@ -1,0 +1,11 @@
+C:\Users\dr_mc\source\repos\AegisWPF\AegisWcfService\obj\Debug\AegisWcfService.csprojAssemblyReference.cache
+C:\Users\dr_mc\source\repos\AegisWPF\AegisWcfService\bin\AegisWcfService.dll.config
+C:\Users\dr_mc\source\repos\AegisWPF\AegisWcfService\bin\AegisWcfService.dll
+C:\Users\dr_mc\source\repos\AegisWPF\AegisWcfService\bin\AegisWcfService.pdb
+C:\Users\dr_mc\source\repos\AegisWPF\AegisWcfService\obj\Debug\AegisWcfService.dll
+C:\Users\dr_mc\source\repos\AegisWPF\AegisWcfService\obj\Debug\AegisWcfService.pdb
+C:\Users\dr_mc\source\repos\AegisWPF\AegisWcfService\bin\EntityFramework.dll
+C:\Users\dr_mc\source\repos\AegisWPF\AegisWcfService\bin\EntityFramework.SqlServer.dll
+C:\Users\dr_mc\source\repos\AegisWPF\AegisWcfService\bin\EntityFramework.xml
+C:\Users\dr_mc\source\repos\AegisWPF\AegisWcfService\bin\EntityFramework.SqlServer.xml
+C:\Users\dr_mc\source\repos\AegisWPF\AegisWcfService\obj\Debug\AegisWcfService.csproj.CopyComplete

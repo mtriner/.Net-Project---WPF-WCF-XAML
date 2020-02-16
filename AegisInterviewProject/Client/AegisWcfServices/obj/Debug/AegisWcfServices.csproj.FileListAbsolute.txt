@@ -1,0 +1,6 @@
+C:\Users\dr_mc\source\repos\AegisWPF\AegisWcfServices\obj\Debug\AegisWcfServices.csprojAssemblyReference.cache
+C:\Users\dr_mc\source\repos\AegisWPF\AegisWcfServices\bin\Debug\AegisWcfServices.dll.config
+C:\Users\dr_mc\source\repos\AegisWPF\AegisWcfServices\bin\Debug\AegisWcfServices.dll
+C:\Users\dr_mc\source\repos\AegisWPF\AegisWcfServices\bin\Debug\AegisWcfServices.pdb
+C:\Users\dr_mc\source\repos\AegisWPF\AegisWcfServices\obj\Debug\AegisWcfServices.dll
+C:\Users\dr_mc\source\repos\AegisWPF\AegisWcfServices\obj\Debug\AegisWcfServices.pdb

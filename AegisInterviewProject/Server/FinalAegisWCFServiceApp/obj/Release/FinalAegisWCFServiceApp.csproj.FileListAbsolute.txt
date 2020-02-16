@@ -1,0 +1,5 @@
+C:\Users\dr_mc\source\repos\FinalAegisWCFServiceApp\FinalAegisWCFServiceApp\bin\FinalAegisWCFServiceApp.dll.config
+C:\Users\dr_mc\source\repos\FinalAegisWCFServiceApp\FinalAegisWCFServiceApp\bin\FinalAegisWCFServiceApp.dll
+C:\Users\dr_mc\source\repos\FinalAegisWCFServiceApp\FinalAegisWCFServiceApp\bin\FinalAegisWCFServiceApp.pdb
+C:\Users\dr_mc\source\repos\FinalAegisWCFServiceApp\FinalAegisWCFServiceApp\obj\Release\FinalAegisWCFServiceApp.dll
+C:\Users\dr_mc\source\repos\FinalAegisWCFServiceApp\FinalAegisWCFServiceApp\obj\Release\FinalAegisWCFServiceApp.pdb
