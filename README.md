@@ -1,4 +1,4 @@
-# AegisInterviewProject
+# WPF-WCF-XAML Project
 
 ## Database Configuration
 - Go to Server\FinalAegisWCFServiceApp\Service1.svc.cs 
